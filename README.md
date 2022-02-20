@@ -1,8 +1,8 @@
 <h3> Hi There 👋 </h3>
 
-- 🌱  I’m currently learning SQL
-- 👯  I’m looking to volunteer for any SQL projects
-- 📫  How to reach me: <a href="mailto:matheus17891@gmail.com">Email</a>
+- 🌱 &nbsp; I’m currently learning SQL
+- 👯 &nbsp; I’m looking to volunteer for any SQL project
+- 📫 &nbsp; How to reach me: <a href="mailto:matheus17891@gmail.com">Email</a> 
 
 <!---
 matheus17891/matheus17891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
